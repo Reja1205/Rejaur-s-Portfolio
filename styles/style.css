@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(177, 226, 210);
+}
+.half-width{
+    width: 40%;
+    margin: 2% 0% .5%;
+    padding: 2%;
+    float: left;
+    /* border: 2px solid red; */
+}
+.name-colour{
+    color: crimson;
+    font-size: xx-large;
+    font-weight: 500;
+    font-style: italic;
+}
+.larger{
+    font-size: xx-large;
+    font-style: italic;
+}
+.margin{
+    /* padding: 200px; */
+    margin-left: 100px;
+}
+.text-color{
+    color: rgb(33, 5, 110);
+
+}
+.aws{
+    background-color: blue;
+    color: white;
+    padding: 2px;
+    border-radius: 2ps;
+    text-decoration: none;
+    font-size: small;
+}
+.text-color{
+    margin-bottom: 270px;
+}
+.title{
+    text-align: center;
+}
+.content{
+    text-align: center;
+    border-top: 7px solid rgb(153, 15, 153) ;
+    box-shadow: 8px 8px 35px gray;
+    
+    
+}
+/* .footer{
+    height: 200px;
+    background-color: blueviolet;
+    
+} */
+
+ 
+
